@@ -2,9 +2,15 @@
 
 ---
 
-[League of Legends 15min. game](https://github.com/twpark13/game-data/tree/main/league-of-legends)
+<img src="images/league-of-legends-logo.png" height="115" width="400"/>
 
-<img src="images/thumbnail.png?raw=true"/>
+[League of Legends 15min. game](https://github.com/twpark13/data-analysis/tree/main/league-of-legends)
+
+---
+
+<img src="images/fraud-detection-logo.png" height="84" width="400"/>
+
+[IEEE-CIS-Fraud-detection](https://github.com/twpark13/data-analysis/tree/main/IEEE-fraud-detection)
 
 ---
 
