@@ -9,10 +9,10 @@
 
 ---
 
-2015-2021 대한민국 신혼부부통계 [대시보드](https://drive.google.com/file/d/181LLhkdItJZZ5BQrJyb27RADrIVIh0Gp/view?usp=share_link), [리포트](https://drive.google.com/file/d/1FuAU6m4XRVBHMx0ZD2p3BrBO3A8dzQfX/view?usp=share_link)
+2015-2021 대한민국 신혼부부통계 [대시보드](https://public.tableau.com/app/profile/terry.p/viz/_16848163934680/2016-2021)
 
 - 국가통계포털의 통계자료를 이용하여 데이터 분석
-- Power BI 이용하여 시각화
+- Tableau 이용하여 시각화
 
 ---
 [IEEE-CIS-Fraud-detection](https://github.com/twpark13/data-analysis/tree/main/IEEE-fraud-detection)
